@@ -12,3 +12,5 @@ It lies in creating a model that can effectively differentiate between these two
 * The SMS Spam Collection dataset consists of ~190K English SMS messages, each labeled as either spam or ham, sourced from various online platforms for research purposes.
 
 * The dataset's composition reflects a real-world distribution of spam and ham messages, providing a solid foundation for model training and evaluation.
+  
+* [Spam Data](https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification/data)
